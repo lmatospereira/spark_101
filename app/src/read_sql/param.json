@@ -2,8 +2,12 @@
     "arquivo_sql": [
         "count.sql"
     ],
-    "parametros_carga": {
+    "parametros_query": {
       "tabela": "tera",
       "cidade": "Geneve"
+    },
+    "parametros_carga":{
+      "table": "tera",
+      "url": "jdbc:mysql://localhost:3306/teste"
     }
   }
