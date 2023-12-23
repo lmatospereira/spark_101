@@ -1,0 +1,9 @@
+{   
+    "arquivo_sql": [
+        "count.sql"
+    ],
+    "parametros_carga": {
+      "tabela": "tera",
+      "cidade": "Geneve"
+    }
+  }
