@@ -1,5 +1,4 @@
-with teste  as (
-    SELECT
+SELECT
 -- Active_Customers_Expression,
 City
 -- Current_Period_End_Date,
@@ -8,6 +7,4 @@ City
 FROM {tabela}
 where City = '{cidade}'
 group by 
-City)
-
-SELECT * from teste
+City
